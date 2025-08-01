@@ -1,0 +1,30 @@
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/bin/Debug/net8.0/terraservice.Infrastructure.deps.json
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/bin/Debug/net8.0/terraservice.Infrastructure.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/bin/Debug/net8.0/terraservice.Infrastructure.pdb
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/bin/Debug/net8.0/terraservice.Domain.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/bin/Debug/net8.0/terraservice.Domain.pdb
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.csproj.AssemblyReference.cache
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.AssemblyInfoInputs.cache
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.AssemblyInfo.cs
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/obj/Debug/net8.0/terraser.D306757A.Up2Date
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/obj/Debug/net8.0/refint/terraservice.Infrastructure.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.pdb
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Infrastructure/obj/Debug/net8.0/ref/terraservice.Infrastructure.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/bin/Debug/net8.0/terraservice.Infrastructure.deps.json
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/bin/Debug/net8.0/terraservice.Infrastructure.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/bin/Debug/net8.0/terraservice.Infrastructure.pdb
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/bin/Debug/net8.0/terraservice.Domain.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/bin/Debug/net8.0/terraservice.Domain.pdb
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.csproj.AssemblyReference.cache
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/obj/Debug/net8.0/terraser.D306757A.Up2Date
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/obj/Debug/net8.0/refint/terraservice.Infrastructure.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/obj/Debug/net8.0/terraservice.Infrastructure.pdb
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Infrastructure/obj/Debug/net8.0/ref/terraservice.Infrastructure.dll

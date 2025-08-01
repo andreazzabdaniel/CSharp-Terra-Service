@@ -1,0 +1,42 @@
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Aplication.deps.json
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Aplication.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Aplication.pdb
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Communication.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Domain.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Exception.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Communication.pdb
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Domain.pdb
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Exception.pdb
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.csproj.AssemblyReference.cache
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.AssemblyInfoInputs.cache
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.AssemblyInfo.cs
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/obj/Debug/net8.0/terraser.5712E5BA.Up2Date
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/obj/Debug/net8.0/refint/terraservice.Aplication.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.pdb
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/obj/Debug/net8.0/ref/terraservice.Aplication.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.xml
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Aplication/bin/Debug/net8.0/Newtonsoft.Json.xml
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Aplication.deps.json
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Aplication.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Aplication.pdb
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Communication.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Domain.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Exception.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Communication.pdb
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Domain.pdb
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/bin/Debug/net8.0/terraservice.Exception.pdb
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.csproj.AssemblyReference.cache
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/obj/Debug/net8.0/terraser.5712E5BA.Up2Date
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/obj/Debug/net8.0/refint/terraservice.Aplication.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/obj/Debug/net8.0/terraservice.Aplication.pdb
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Aplication/obj/Debug/net8.0/ref/terraservice.Aplication.dll

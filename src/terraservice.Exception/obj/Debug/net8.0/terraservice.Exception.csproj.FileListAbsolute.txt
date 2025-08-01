@@ -1,0 +1,26 @@
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/bin/Debug/net8.0/terraservice.Exception.deps.json
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/bin/Debug/net8.0/terraservice.Exception.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/bin/Debug/net8.0/terraservice.Exception.pdb
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.AssemblyInfoInputs.cache
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.AssemblyInfo.cs
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/obj/Debug/net8.0/refint/terraservice.Exception.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.pdb
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/obj/Debug/net8.0/ref/terraservice.Exception.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.ResourceErrorMessages.resources
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.csproj.GenerateResource.cache
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/bin/Debug/net8.0/terraservice.Exception.deps.json
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/bin/Debug/net8.0/terraservice.Exception.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/bin/Debug/net8.0/terraservice.Exception.pdb
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.ResourceErrorMessages.resources
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.csproj.GenerateResource.cache
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/obj/Debug/net8.0/refint/terraservice.Exception.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/obj/Debug/net8.0/terraservice.Exception.pdb
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Exception/obj/Debug/net8.0/ref/terraservice.Exception.dll

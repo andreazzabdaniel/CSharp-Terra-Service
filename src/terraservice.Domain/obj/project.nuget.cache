@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQjFG7KU73M=",
+  "success": true,
+  "projectFilePath": "/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Domain/terraservice.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/daniel/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.13/microsoft.entityframeworkcore.abstractions.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

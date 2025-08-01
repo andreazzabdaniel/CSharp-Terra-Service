@@ -1,0 +1,22 @@
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Communication/bin/Debug/net8.0/terraservice.Communication.deps.json
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Communication/bin/Debug/net8.0/terraservice.Communication.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Communication/bin/Debug/net8.0/terraservice.Communication.pdb
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Communication/obj/Debug/net8.0/terraservice.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Communication/obj/Debug/net8.0/terraservice.Communication.AssemblyInfoInputs.cache
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Communication/obj/Debug/net8.0/terraservice.Communication.AssemblyInfo.cs
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Communication/obj/Debug/net8.0/terraservice.Communication.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Communication/obj/Debug/net8.0/terraservice.Communication.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Communication/obj/Debug/net8.0/refint/terraservice.Communication.dll
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Communication/obj/Debug/net8.0/terraservice.Communication.pdb
+/home/daniel/Desktop/Programing/Projetos/backendTerraService/src/terraservice.Communication/obj/Debug/net8.0/ref/terraservice.Communication.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Communication/bin/Debug/net8.0/terraservice.Communication.deps.json
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Communication/bin/Debug/net8.0/terraservice.Communication.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Communication/bin/Debug/net8.0/terraservice.Communication.pdb
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Communication/obj/Debug/net8.0/terraservice.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Communication/obj/Debug/net8.0/terraservice.Communication.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Communication/obj/Debug/net8.0/terraservice.Communication.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Communication/obj/Debug/net8.0/terraservice.Communication.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Communication/obj/Debug/net8.0/terraservice.Communication.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Communication/obj/Debug/net8.0/refint/terraservice.Communication.dll
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Communication/obj/Debug/net8.0/terraservice.Communication.pdb
+/home/daniel/Área de trabalho/Projetos/Terraservice/src/terraservice.Communication/obj/Debug/net8.0/ref/terraservice.Communication.dll

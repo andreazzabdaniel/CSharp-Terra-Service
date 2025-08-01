@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EAVqFTjJt2InkwXj+zOF0JpyGpJO+9bjZ/NUHYoQUvI=",
+  "Source": "terraservice.api",
+  "BasePath": "_content/terraservice.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

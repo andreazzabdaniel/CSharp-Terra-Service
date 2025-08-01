@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/terraservice.api.props" />
+</Project>
